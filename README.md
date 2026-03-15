@@ -1,4 +1,4 @@
-**A tool to generating MicroStrip Butterworth Filters**
+**OMEGA is an OpenSource tool for generating MicroStrip Butterworth Filters**
 <img width="812" height="742" alt="image" src="https://github.com/user-attachments/assets/c64cc0a5-a1c4-49af-85a0-8d62cff7db9d" />
 
 Not only helps Generate width and Length of stubs
